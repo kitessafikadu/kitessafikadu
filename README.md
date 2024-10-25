@@ -5,8 +5,8 @@ I'm Kitessa Fikadu, a passionate software developer and creative problem-solver.
 
 Skills and Expertise
 Programming Languages: Python, JavaScript, Java,C++
-Frameworks and Libraries: React.js, Node.js, Django, Flask
-Tools and Technologies: Git, Docker, AWS, SQL, RESTful APIs
+Frameworks and Libraries: React.js, Node.js, Django
+Tools and Technologies: Git SQL, RESTful APIs
 
 Get In Touch
 📫 You can reach me via email at [kitessafikadu@gmail.com]. Let's connect on LinkedIn too: [(https://www.linkedin.com/in/kitessa-fikadu-7806b6297/)].
