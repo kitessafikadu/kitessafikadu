@@ -9,6 +9,6 @@ I'm Kitessa Fikadu, a passionate software developer and creative problem-solver.
 - Tools and Technologies: Git, SQL, RESTful APIs
 
 ### Get In Touch
-📫 You can reach me via email at [kitessafikadu@gmail.comkitessafikadu@gmail.com Let's connect on LinkedIn too: [Kitessa Fikadu](https://www.linkedin.com/in/kitessa-fikadu).
+📫 You can reach me via email at [kitessafikadu@gmail.com](kitessafikadu@gmail.com) Let's connect on LinkedIn too: [Kitessa Fikadu](https://www.linkedin.com/in/kitessa-fikadu).
 
 Looking forward to collaborating and creating something extraordinary together!
