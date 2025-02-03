@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Kitessa+Fikadu!;" />
 
-I'm **Kitessa Fikadu**, a passionate software developer and creative problem-solver. I love crafting elegant and efficient solutions to tackle complex challenges. With proficiency in multiple programming languages and frameworks, I enjoy pushing the boundaries of what's possible.
+**a passionate software developer and creative problem-solver.** I love crafting elegant and efficient solutions to tackle complex challenges. With proficiency in multiple programming languages and frameworks, I enjoy pushing the boundaries of what's possible.
 
-🚀 Let's collaborate, innovate, and build something amazing together! Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
+**Let's collaborate, innovate, and build something amazing together!** Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
 
 ## 🚀 Skills and Expertise  
 
@@ -35,6 +35,9 @@ I'm **Kitessa Fikadu**, a passionate software developer and creative problem-sol
   </a>
   <a href="https://www.linkedin.com/in/kitessa-fikadu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/ssafi_dev">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
