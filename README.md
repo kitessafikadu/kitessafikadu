@@ -1,5 +1,4 @@
-# Hi there! 👋  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kitessa+Fikadu!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Kitessa+Fikadu!;" />
 
 I'm **Kitessa Fikadu**, a passionate software developer and creative problem-solver. I love crafting elegant and efficient solutions to tackle complex challenges. With proficiency in multiple programming languages and frameworks, I enjoy pushing the boundaries of what's possible.
 
@@ -14,7 +13,7 @@ I'm **Kitessa Fikadu**, a passionate software developer and creative problem-sol
 
 ### 🌐 Frameworks & Libraries  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=react,expressjs,django,fastapi" />
 </p>
 
 ### 🔧 Tools & Technologies  
@@ -26,12 +25,17 @@ I'm **Kitessa Fikadu**, a passionate software developer and creative problem-sol
 <p align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kitessafikadu&theme=radical&border_radius=10" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=kitessafikadu&show_icons=true&theme=radical&border_radius=10" />
-  <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitessafikadu&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ## 📫 Get In Touch  
-📧 Email: [kitessafikadu@gmail.com](mailto:kitessafikadu@gmail.com)  
-🔗 LinkedIn: [Kitessa Fikadu](https://www.linkedin.com/in/kitessa-fikadu)  
+<p align="center">
+  <a href="mailto:kitessafikadu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kitessa-fikadu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 Looking forward to collaborating and creating something extraordinary together! 🚀  
