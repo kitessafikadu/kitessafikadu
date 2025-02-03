@@ -23,7 +23,7 @@
 
 ### 🔧 Tools & Technologies  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,sqlite,sqlalchemy" />
+    <img src="https://skillicons.dev/icons?i=git,github,sqlite,sqlalchemy,jupyternotebook,pycharm,vscode" />
 </p>
 
 ## 📊 GitHub Stats  
