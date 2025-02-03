@@ -16,6 +16,11 @@
     <img src="https://skillicons.dev/icons?i=react,expressjs,django,fastapi" />
 </p>
 
+### 🤖 Machine Learning  
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+</p>
+
 ### 🔧 Tools & Technologies  
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,sqlite,sqlalchemy" />
