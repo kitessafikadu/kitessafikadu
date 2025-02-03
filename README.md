@@ -13,7 +13,7 @@
 
 ### 🌐 Frameworks & Libraries  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,expressjs,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=tailwindcss,react,expressjs,django,fastapi" />
 </p>
 
 ### 🤖 Machine Learning  
