@@ -1,6 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Kitessa+Fikadu!;" />
-
-**A passionate full-stack developer** I love crafting elegant and efficient solutions to tackle complex challenges. With proficiency in multiple programming languages and frameworks, I enjoy pushing the boundaries of what's possible.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Kitessa+Fikadu!;A+passionate+full-stack+developer;" />
 
 **Let's collaborate, innovate, and build something amazing together!** Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
 
