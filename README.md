@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Kitessa+Fikadu!+;A+passionate+full-stack+developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Kitessa+Fikadu!+;A+passionate+full-stack+developer;" />
 
 **Let's collaborate, innovate, and build something amazing together!** Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
 
