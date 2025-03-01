@@ -21,7 +21,7 @@
 
 ### 🔧 Tools & Technologies  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,sqlite,pycharm,vscode,anaconda,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,sqlite,prisma,pycharm,vscode,anaconda,postman" />
 </p>
 
 ## 📊 GitHub Stats  
