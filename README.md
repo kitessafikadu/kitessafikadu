@@ -14,6 +14,10 @@
     <img src="https://skillicons.dev/icons?i=tailwindcss,react,expressjs,nestjs,django,fastapi" />
 </p>
 
+### 🛢️ Databases
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
 ### 🤖 Machine Learning  
 <p align="center">
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
