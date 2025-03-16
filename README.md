@@ -36,6 +36,12 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitessafikadu&layout=compact&theme=radical&border_radius=10" />
 </p>
 
+<h3 align="center" style="color:#4CAF50;">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kitessafikadu&theme=dracula&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
+  </a>
+</p>
 ## 📫 Get In Touch  
 <p align="center">
   <a href="mailto:kitessafikadu@gmail.com">
