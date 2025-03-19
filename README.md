@@ -21,7 +21,7 @@
 
 ### 🤖 Machine Learning  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow" />
 </p>
 
 ### 🔧 Tools & Technologies  
