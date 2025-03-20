@@ -6,7 +6,7 @@
 
 ### 💻 Programming Languages  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,java,cpp" />
 </p>
 
 ### 🌐 Frameworks & Libraries  
