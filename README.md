@@ -11,7 +11,7 @@
 
 ### 🌐 Frameworks & Libraries  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,react,expressjs,nestjs,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=tailwindcss,react,flutter,expressjs,nestjs,django,fastapi" />
 </p>
 
 ### 🛢️ Databases
