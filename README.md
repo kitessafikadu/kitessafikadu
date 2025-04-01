@@ -54,6 +54,4 @@
   <a href="https://t.me/ssafi_dev">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
-Looking forward to collaborating and creating something extraordinary together! 🚀  
+</p> 
