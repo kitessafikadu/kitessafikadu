@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/kitessa-fikadu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/ssafi_dev">
+  <a href="https://t.me/kitessafikadu">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p> 
