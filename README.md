@@ -2,6 +2,8 @@
 
 **Let's collaborate, innovate, and build something amazing together!** Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
 
+##Skills🚀
+
 ### 💻 Programming Languages  
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,java,cpp" />
