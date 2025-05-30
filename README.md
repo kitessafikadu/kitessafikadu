@@ -1,33 +1,39 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Kitessa+Fikadu!+;A+Backend+Engineer!;" />
 
 **Let's collaborate, innovate, and build something amazing together!** Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
+&nbsp;
+## 🛠 &nbsp; Major Tech Stacks and Tools
 
-## Skills🚀
+![Go](https://img.shields.io/badge/-Go-333333?style=for-the-badge&logo=Go)
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=dart)
 
-### 💻 Programming Languages  
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,go" />
-</p>
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=for-the-badge&logo=nestjs)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=for-the-badge&logo=express)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=for-the-badge&logo=tailwind-css)
 
-### 🌐 Frameworks & Libraries  
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,react,flutter,expressjs,nestjs,django,fastapi" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
 
-### 🛢️ Databases
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=for-the-badge&logo=tensorflow)
 
-### 🤖 Machine Learning  
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
-</p>
-
-### 🔧 Tools & Technologies  
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,sqlite,prisma,pycharm,vscode,anaconda,postman" />
-</p>
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+![Cursor](https://img.shields.io/badge/-Cursor-333333?style=for-the-badge&logo=cursor)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visualstudiocode)
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=for-the-badge&logo=anaconda)
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -54,4 +60,7 @@
   <a href="https://t.me/kitessafikadu">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p> 
+  <a href="https://x.com/kitessafikadu">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
