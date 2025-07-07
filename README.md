@@ -1,7 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there+👋;+It's+Kitessa+Fikadu.+;A+Backend+Engineer!;" />
 
-**Let's collaborate, innovate, and build something amazing together!** Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
-&nbsp;
+**With a deep love for solving real-world problems through code using modern technologies, whether it’s crafting intuitive interfaces or designing robust backend systems, I thrive on creating meaningful digital experiences that make a difference. I'm particularly passionate about 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, and 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, and building scalable solutions that merge performance with elegance.
+Let's collaborate, innovate, and build something amazing together!** 
+<br>👈 Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
 ## 🛠 &nbsp; Major Tech Stacks and Tools
 
 ![Go](https://img.shields.io/badge/-Go-333333?style=for-the-badge&logo=Go)
