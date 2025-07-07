@@ -40,12 +40,11 @@ Let's collaborate, innovate, and build something amazing together!**
 <p align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kitessafikadu&theme=radical&border_radius=10" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=kitessafikadu&show_icons=true&theme=radical&border_radius=10" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitessafikadu&layout=compact&theme=radical&border_radius=10" />
+<!--   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitessafikadu&layout=compact&theme=radical&border_radius=10" /> -->
 </p>
 
-## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kitessafikadu&theme=radical&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=kitessafikadu&theme=radical&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" /> -->
   </a>
 </p>
