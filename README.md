@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there+👋;+It's+Kitessa+Fikadu.+;A+Backend+Engineer!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there+👋;+It's+Kitessa+Fikadu.+;A+Software+Engineer!;" />
 
 I'm particularly passionate about 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, and 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, and building scalable solutions that merge performance with elegance.
 Let's collaborate, innovate, and build something amazing together!
@@ -36,10 +36,9 @@ Let's collaborate, innovate, and build something amazing together!
 ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visualstudiocode)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=for-the-badge&logo=anaconda)
 
-## 📊 GitHub Stats  
 <p align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kitessafikadu&theme=radical&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kitessafikadu&show_icons=true&theme=radical&border_radius=10" />
+<!--   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kitessafikadu&theme=radical&border_radius=10" /> -->
+<!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=kitessafikadu&show_icons=true&theme=radical&border_radius=10" /> -->
 <!--   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitessafikadu&layout=compact&theme=radical&border_radius=10" /> -->
 </p>
 
