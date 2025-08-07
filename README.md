@@ -3,7 +3,7 @@
 I'm particularly passionate about 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, and 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, and building scalable solutions that merge performance with elegance.
 Let's collaborate, innovate, and build something amazing together!
 <br>👈 Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
-## 🛠 &nbsp; Major Tech Stacks and Tools
+## 🛠 Tech Stack and Tools
 
 ![Go](https://img.shields.io/badge/-Go-333333?style=for-the-badge&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
@@ -13,6 +13,7 @@ Let's collaborate, innovate, and build something amazing together!
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
+![Gin](https://img.shields.io/badge/-Gin-333333?style=for-the-badge&logo=gin)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=for-the-badge&logo=nestjs)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=for-the-badge&logo=express)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=flutter)
