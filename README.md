@@ -13,6 +13,7 @@ Let's collaborate, innovate, and build something amazing together!
 ![](https://github-readme-stats.vercel.app/api?username=kitessafikadu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kitessafikadu&theme=dark&hide_border=false)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=kitessafikadu&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=kitessafikadu&icon=1&color=3)](https://visitcount.itsvg.in) -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
