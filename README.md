@@ -1,7 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there+👋;+It's+Kitessa+Fikadu.+;A+Software+Engineer!;" />
 
-I'm particularly passionate about 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, and 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, and building scalable solutions that merge performance with elegance.
-Let's collaborate, innovate, and build something amazing together!
+I'm particularly passionate about machile learning, and software development. Let's collaborate, innovate, and build something amazing together!
 
 <br>Don't hesitate to reach out if you have any questions or exciting opportunities to discuss.
 
