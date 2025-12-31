@@ -12,7 +12,7 @@ I'm particularly passionate about machile learning, and software development. Le
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/kitessafikadu?tab=repositories">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=kitessafikadu&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="50%" alt="@kitessa's github-readme-stats"/>
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=kitessafikadu&theme=gotham&show_icons=true&count_private=true&cache_seconds=0&v=2" />
     </a>
 </p>
 
